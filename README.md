@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm kirti!</h1>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KirtiMathuria&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="KirtiMathuria's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KirtiMathuria&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=KirtiMathuria&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KirtiMathuria&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
 <h3 align="center">Aspiring Frontend Developer with strong knowledge of React and modern JavaScript. Passionate about creating user-friendly and responsive UI.</h3>
 
 <h3 align="left">More About Me:</h3>
@@ -47,14 +57,4 @@
   <a href="https://github.com/KirtiMathuria/wanderlust" target="_blank" rel="noreferrer noopener">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiMathuria&repo=wanderlust&theme=default" alt="KirtiMathuria/wanderlust" />
   </a>
-</p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KirtiMathuria&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="KirtiMathuria's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KirtiMathuria&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=KirtiMathuria&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KirtiMathuria&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
