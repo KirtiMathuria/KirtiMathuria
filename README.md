@@ -16,7 +16,7 @@ Passionate about creating user-friendly and responsive UI.
 
 ## 👩‍💻 About Me
 
-- 💻 Aspiring Frontend Developer building modern and responsive web applications  
+- 💻 Aspiring Frontend Developer building modern and responsive web applications.  
 - ⚛️ Strong understanding of **React, JavaScript (ES6+), HTML, CSS**  
 - 🧠 Good foundation in core java,OOPs**  
 - 🚀 Currently learning **Spring Boot and Angular**  
