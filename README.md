@@ -1,14 +1,4 @@
-<h1 align="center">Hi 👋, I'm kirti!</h1>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KirtiMathuria&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="KirtiMathuria's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KirtiMathuria&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=KirtiMathuria&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KirtiMathuria&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
+<h1 align="center">Hi,I'm kirti👋</h1>
 
 <h3 align="center">Aspiring Frontend Developer with strong knowledge of React and modern JavaScript. Passionate about creating user-friendly and responsive UI.</h3>
 
@@ -52,9 +42,19 @@
 <h3 align="left">Pinned Repositories:</h3>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/KirtiMathuria/Game-Store" target="_blank" rel="noreferrer noopener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiMathuria&repo=Game-Store&theme=default" alt="KirtiMathuria/Game-Store" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiMathuria&repo=Game-Store&theme=shades-of-purple" alt="KirtiMathuria/Game-Store" />
   </a>
   <a href="https://github.com/KirtiMathuria/wanderlust" target="_blank" rel="noreferrer noopener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiMathuria&repo=wanderlust&theme=default" alt="KirtiMathuria/wanderlust" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiMathuria&repo=wanderlust&theme=shades-of-purple" alt="KirtiMathuria/wanderlust" />
   </a>
+</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KirtiMathuria&show_icons=true&locale=en&theme=shades-of-purple&count_private=true&hide_border=true" alt="KirtiMathuria's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=KirtiMathuria&locale=en&theme=shades-of-purple&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=KirtiMathuria&theme=shades-of-purple&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KirtiMathuria&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
