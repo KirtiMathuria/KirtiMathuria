@@ -1,53 +1,100 @@
-<h1 align="center">Hi,I'm kirti👋</h1>
+<h1 align="center">Hi,I'm Kirti👋,</h1>
 
-<h3 align="center">Aspiring Frontend Developer with strong knowledge of React and modern JavaScript. Passionate about creating user-friendly and responsive UI.</h3>
+<h3 align="center">
+Aspiring Frontend Developer with strong knowledge of React and modern JavaScript.  
+Passionate about creating user-friendly and responsive UI.
+</h3>
 
-<h3 align="left">More About Me:</h3>
+---
 
-- 🌱 I’m currently learning: **i am currently learning Spring boot , Angular**
-- 🔭 I’m currently working on: **Currently working on enhancing frontend applications by improving UI performance, responsiveness, and user experience.  Building and integrating APIs to enable smooth data flow between frontend and backend services.**
-- 📫 How to reach me: [kirtimathuria6@gmail.com](mailto:kirtimathuria6@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<div class="social-icons-wrapper">
-<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://github.com/KirtiMathuria" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://linkedin.com/in/kirti-mathuria" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react" />
 </p>
-</div>
 
-<div class="skills-section">
-<h3 align="left">Languages and Tools:</h3>
-<p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
+---
+
+## 👩‍💻 About Me
+
+- 💻 Aspiring Frontend Developer building modern and responsive web applications  
+- ⚛️ Strong understanding of **React, JavaScript (ES6+), HTML, CSS**  
+- 🧠 Good foundation in **DSA, OOPs, and CS fundamentals**  
+- 🚀 Currently learning **Spring Boot and Angular**  
+- 🔧 Hands-on experience improving **UI performance, responsiveness, and user experience**  
+   
+---
+
+## 📫 Contact Me
+
+📧 Email: **kirtimathuria6@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/KirtiMathuria" target="_blank">
+<img src="https://cdn.simpleicons.org/github" height="35" width="35" />
+</a>
+<a href="https://linkedin.com/in/kirti-mathuria" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="35" width="35" />
+</a>
 </p>
-</div>
 
-<hr>
+---
 
-<h3 align="left">Pinned Repositories:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/KirtiMathuria/Game-Store" target="_blank" rel="noreferrer noopener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiMathuria&repo=Game-Store&theme=shades-of-purple" alt="KirtiMathuria/Game-Store" />
-  </a>
-  <a href="https://github.com/KirtiMathuria/wanderlust" target="_blank" rel="noreferrer noopener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiMathuria&repo=wanderlust&theme=shades-of-purple" alt="KirtiMathuria/wanderlust" />
-  </a>
+## 🛠 Skills & Tools
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 </p>
+
+### 🎨 Frontend
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45"/>
+<img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+</p>
+
+### ⚙ Backend (Learning)
+<p>
+<img src="https://skillicons.dev/icons?i=spring" height="45"/>
+</p>
+
+### 🗄 Database
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="45"/>
+</p>
+
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=postman" height="45"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+<p align="center">
+<a href="https://github.com/KirtiMathuria/Game-Store">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiMathuria&repo=Game-Store&theme=default" />
+</a>
+
+<a href="https://github.com/KirtiMathuria/wanderlust">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KirtiMathuria&repo=wanderlust&theme=default" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=KirtiMathuria&show_icons=true&locale=en&theme=shades-of-purple&count_private=true&hide_border=true" alt="KirtiMathuria's GitHub Stats" /></p>
 
