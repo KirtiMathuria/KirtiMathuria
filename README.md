@@ -49,7 +49,6 @@ Passionate about creating user-friendly and responsive UI.
 <p>
 <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
 <img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 </p>
 
 ### 🎨 Frontend
